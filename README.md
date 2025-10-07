@@ -2,7 +2,7 @@
 
 ## Overview
 **The chalange**
-- Create Website "Family Travel Tracker"
+- Create Website Aplication "Family Travel Tracker"
 
 **What I learned**
 - Postgres DB;
